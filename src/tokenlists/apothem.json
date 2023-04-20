@@ -16,19 +16,19 @@
     "tokens": [
         {
             "name": "FTHM",
-            "address": "0xfbf03b959b9836ac1cC13a8B30f228056dBa7b9a",
+            "address": "0x0Cc79883b6FF52B857bDA7D5Df9214eE0bb28839",
             "symbol": "FTHM",
             "decimals": 18,
             "chainId": 51,
-            "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/dev/blockchains/apothem/assets/0xfbf03b959b9836ac1cC13a8B30f228056dBa7b9a/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0x0Cc79883b6FF52B857bDA7D5Df9214eE0bb28839/logo.png"
         },
         {
             "name": "Fathom USD",
-            "address": "0xCBB5e38427F102Fdb08d76Bb592e85d454A31d05",
+            "address": "0xf31146956Cb3be9EFD6Cfd665Cb4Cb5Aeeb5cA3e",
             "symbol": "FXD",
             "decimals": 18,
             "chainId": 51,
-            "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/dev/blockchains/apothem/assets/0xCBB5e38427F102Fdb08d76Bb592e85d454A31d05/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0xf31146956Cb3be9EFD6Cfd665Cb4Cb5Aeeb5cA3e/logo.png"
         },
         {
             "name": "Wrapped XDC",
