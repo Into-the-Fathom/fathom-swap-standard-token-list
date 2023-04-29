@@ -32,7 +32,7 @@
     "@into-the-fathom/address": "^1.1.0",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^10.2.0",
     "rimraf": "^3.0.2"
   }
 }
