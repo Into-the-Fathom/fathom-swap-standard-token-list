@@ -9,11 +9,11 @@
   },
   {
     "name": "FXD",
-    "address": "0xCBB5e38427F102Fdb08d76Bb592e85d454A31d05",
+    "address": "0xEd816e06cdb7B449bFa9fdB7A55d95A85A224Ecc",
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/dev/blockchains/apothem/assets/0xCBB5e38427F102Fdb08d76Bb592e85d454A31d05/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/dev/blockchains/apothem/assets/0xEd816e06cdb7B449bFa9fdB7A55d95A85A224Ecc/logo.png"
   },
   {
     "name": "xUSDT",
