@@ -1,50 +1,45 @@
 {
-    "name": "Apothem Tokens",
-    "logoURI": "https://xinfin.org/assets/images/brand-assets/xdc-icon.png",
-    "keywords": [
-        "xdc",
-        "apothem",
-        "fathom",
-        "defi"
-    ],
-    "timestamp": "2022-10-31T10:01:51.032Z",
-    "version": {
-        "major": 1,
-        "minor": 0,
-        "patch": 0
+  "name": "Apothem Tokens",
+  "logoURI": "https://xinfin.org/assets/images/brand-assets/xdc-icon.png",
+  "keywords": ["xdc", "apothem", "fathom", "defi"],
+  "timestamp": "2022-10-31T10:01:51.032Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "FTHM",
+      "address": "0xAC1F73e53A5375FbdaCed159E078AE5e44ee0eCC",
+      "symbol": "FTHM",
+      "decimals": 18,
+      "chainId": 51,
+      "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0xAC1F73e53A5375FbdaCed159E078AE5e44ee0eCC/logo.png"
     },
-    "tokens": [
-        {
-            "name": "FTHM",
-            "address": "0xa96792e0745B7E676a96148124A0caaF265733C8",
-            "symbol": "FTHM",
-            "decimals": 18,
-            "chainId": 51,
-            "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0xa96792e0745B7E676a96148124A0caaF265733C8/logo.png"
-        },
-        {
-            "name": "Fathom USD",
-            "address": "0xf31146956Cb3be9EFD6Cfd665Cb4Cb5Aeeb5cA3e",
-            "symbol": "FXD",
-            "decimals": 18,
-            "chainId": 51,
-            "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0xf31146956Cb3be9EFD6Cfd665Cb4Cb5Aeeb5cA3e/logo.png"
-        },
-        {
-            "name": "Wrapped XDC",
-            "address": "0xe99500ab4a413164da49af83b9824749059b46ce",
-            "symbol": "WXDC",
-            "decimals": 18,
-            "chainId": 51,
-            "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
-        },
-        {
-            "name": "xUSDT",
-            "address": "0x9dD4761Bd68169478a06156c0C1416fB9506BE78",
-            "symbol": "xUSDT",
-            "decimals": 6,
-            "chainId": 51,
-            "logoURI":  "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0x9dD4761Bd68169478a06156c0C1416fB9506BE78/logo.png"
-        }
-    ]
+    {
+      "name": "Fathom USD",
+      "address": "0x8E3D518785e5105C41558d184A71DFaF6A62d274",
+      "symbol": "FXD",
+      "decimals": 18,
+      "chainId": 51,
+      "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0x8E3D518785e5105C41558d184A71DFaF6A62d274/logo.png"
+    },
+    {
+      "name": "Wrapped XDC",
+      "address": "0xe99500ab4a413164da49af83b9824749059b46ce",
+      "symbol": "WXDC",
+      "decimals": 18,
+      "chainId": 51,
+      "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
+    },
+    {
+      "name": "xUSDT",
+      "address": "0x9dD4761Bd68169478a06156c0C1416fB9506BE78",
+      "symbol": "xUSDT",
+      "decimals": 6,
+      "chainId": 51,
+      "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/qa/blockchains/apothem/assets/0x9dD4761Bd68169478a06156c0C1416fB9506BE78/logo.png"
+    }
+  ]
 }
