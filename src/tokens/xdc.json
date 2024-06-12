@@ -126,5 +126,13 @@
     "decimals": 18,
     "chainId": 50,
     "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xCF071288cC70D737105c97485F9820668EAcCa51/logo.png"
+  },
+  {
+    "name": "Comtech Gold",
+    "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
+    "symbol": "CGO",
+    "decimals": 18,
+    "chainId": 50,
+    "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x8f9920283470F52128bF11B0c14E798bE704fD15/logo.png"
   }
 ]
